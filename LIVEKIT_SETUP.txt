@@ -1,0 +1,7 @@
+تم ضبط:
+LIVEKIT_URL = wss://live-z32agtvo.livekit.cloud
+Development Token Server = https://live-1corft.sandbox.livekit.io
+
+مهم:
+هذا Development Token Server مخصص للتجربة والتطوير. لا تضع API Secret في Android أو GitHub.
+للنشر العام لاحقًا نستخدم Token Server آمن خاص بنا.
